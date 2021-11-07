@@ -3,3 +3,4 @@
 /models/vosk-model-small-es-0.3/*
 /models/vosk-model-small-ru-0.22/*
 /.idea/*
+/secrets.py
